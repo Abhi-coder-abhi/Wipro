@@ -20,10 +20,9 @@ int main()
                     printf("%d*", y);
                 else
                     printf("%d", y);
-                    y++;
+                y++;
             }
             printf("\n");
-            
         }
     }
     return 0;
